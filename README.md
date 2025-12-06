@@ -8,13 +8,13 @@
 
 ## 📝 The README Checklist
 
-### • **Who are you?**
+### • **¿Quién soy??**
 Soy **Salzzzzr**, Desarrollador Backend con pasión por crear soluciones eficientes y escalables.
 
-### • **What are you currently working on?**
+### • **¿En qué estoy trabajando?**
 Actualmente mejoro mis habilidades en backend, bases de datos y arquitectura limpia para proyectos robustos.
 
-### • **What tools do you use?**
+### • **Herramientas que utilizo**
 - 🗄️ **SQL** para bases de datos sólidas  
 - ☕ **Java** como lenguaje principal
 - ⚛️ **React** para interfaces web moviles y de escritorio
