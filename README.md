@@ -4,35 +4,20 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Hola soy Salzzzzr">
 </p>
 
-### 👨‍💻 Sobre mí
-
-Soy **Desarrollador Backend**, me apasiona crear soluciones eficientes y escalables.  
-Trabajo principalmente con **SQL**, **Java**, y también tengo experiencia con **HTML**, **CSS** y **JavaScript**.
-
-### 🛠️ Tecnologías que uso
-
-- 🗄️ SQL para bases de datos robustas  
-- ☕ Java como lenguaje principal  
-- 🌐 HTML, CSS y JavaScript para interfaces web básicas  
-
 ---
 
-> *Siempre aprendiendo, siempre construyendo.*
+## 📝 The README Checklist
 
-<!-- Puedes personalizar esto aún más si decides agregar proyectos destacados o enlaces. -->
+### • **Who are you?**
+Soy **Salzzzzr**, Desarrollador Backend con pasión por crear soluciones eficientes y escalables.
 
+### • **What are you currently working on?**
+Actualmente mejoro mis habilidades en backend, bases de datos y arquitectura limpia para proyectos robustos.
 
-<!--
-**salazaraaaaaa/salazaraaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### • **What tools do you use?**
+- 🗄️ **SQL** para bases de datos sólidas  
+- ☕ **Java** como lenguaje principal
+- ⚛️ **React** para interfaces web moviles y de escritorio
+- 🌐 **HTML**, **CSS** y **JavaScript** para interfaces web básicas  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> _Siempre aprendiendo, siempre construyendo._
